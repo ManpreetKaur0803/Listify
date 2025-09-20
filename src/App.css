@@ -1,8 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=SUSE+Mono:ital,wght@0,100..800;1,100..800&display=swap");
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+}
+
+.font-suse {
+  font-family: "SUSE Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 
 .logo {
