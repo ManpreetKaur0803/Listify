@@ -12,7 +12,7 @@ function App() {
           Listify
         </h1>
         <AddTask />
-        <div className="w-full max-w-lg p-5 rounded-xl shadow-lg bg-white border border-zinc-950">
+        <div className="w-full max-w-lg p-5 rounded-xl shadow-lg bg-white">
           <div className="flex justify-center gap-3 mb-5">
             <Button btnName="ALL" />
             <Button btnName="COMPLETED" />
